@@ -1,8 +1,7 @@
-opencv-python
+opencv-python-headless
 numpy
 pytesseract
 pdf2image
 pillow
 streamlit==1.25.0
-
 streamlit-drawable-canvas

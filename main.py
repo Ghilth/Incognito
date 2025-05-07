@@ -3,6 +3,8 @@ import streamlit as st
 import cv2
 import numpy as np
 import pytesseract
+#pytesseract.pytesseract.tesseract_cmd = '/usr/bin/tesseract'  # Chemin pour Streamlit Cloud
+
 from pdf2image import convert_from_bytes
 from PIL import Image, ImageDraw
 import os
